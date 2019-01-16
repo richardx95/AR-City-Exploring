@@ -29,15 +29,11 @@ ARCore is a Augmented Reality platform by Google which runs on selected Android 
 
 You can check if your phone supports ARCore by visiting Google's developer site: https://developers.google.com/ar/discover/supported-devices
 
-![alt text](https://i.ibb.co/YkRsYYh/Schermafbeelding-2019-01-16-om-21-14-37.png)
-
 ---
 What Is Mapbox?
 ---
 
 Mapbox is a online map provider, which works like Google Maps. The difference is that Mapbox has a ton of cool API's and features and has way more data for a developer to use. It also is compatible with a lot of platforms and SDKs, such as Unity.
-
-![alt text](https://cdn-images-1.medium.com/max/1600/0*ok6yuDnTx4o2PSFx.png)
 
 ---
 How To Use Mapbox?
