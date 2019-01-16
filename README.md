@@ -14,6 +14,8 @@ This project is made within Untiy with ARCore and Mapbox.
 You're able to change or add Points of Interest and change or create your custom content.
 Not everything is fully functional, since this project is the result of a case study about AR. Feel free to improve the code or to build your own application on top of our project. :)
 
+![alt text](https://i.ibb.co/YkRsYYh/Schermafbeelding-2019-01-16-om-21-14-37.png)
+
 ---
 Demo
 ---
